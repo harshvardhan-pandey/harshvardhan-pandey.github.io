@@ -20,15 +20,12 @@ linkedin_username: "harshvardhan-pandey-150381267"
 #########################################################################################
 theme: "minima"
 
-# rss: rss
-
 kramdown:
   math_engine: katex
   syntax_highlighter_opts:
     disable: true
     
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
