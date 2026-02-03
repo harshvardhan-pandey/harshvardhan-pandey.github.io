@@ -20,7 +20,7 @@ linkedin_username: "harshvardhan-pandey-150381267"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   math_engine: katex
